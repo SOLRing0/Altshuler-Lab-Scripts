@@ -4,8 +4,7 @@ Scripts are written primarily in R and Matlab, and data is presented primarily i
 
 Data and code for each experiment is organized into folders as follows:
 
-"Birds can transition between stable and unstable states via wing morphing," C.A. Harvey, V.B. Baliga, J.C.M. Wong, D.L. Altshuler, and D.J. Inman  - AvInertia*
-*Note that this folder leads to a Github subdirectory
+"Birds can transition between stable and unstable states via wing morphing," C.A. Harvey, V.B. Baliga, J.C.M. Wong, D.L. Altshuler, and D.J. Inman - AvInertia (Note that this folder leads to a Github subdirectory)
 
 "A three-dimensional digital brain atlas and stereotaxic coordinates for the Anna’s hummingbird, Calypte anna," A. Stegeman - annas_hummingbird_brain_atlas	
 
